@@ -1,1 +1,1 @@
-export const Home = () => <h1>Fatima App</h1>;
+export const Home = () => <h1>Fatima App</h1>
